@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1539370715 source:c:\users\alicia espigares\asociaciones\aegee\15 aniversario\escape room\escape_room\main.cpp
+	<iostream>
+	"windows.h"
+	<string>
+	"string.h"
+

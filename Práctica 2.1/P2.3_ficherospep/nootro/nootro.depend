@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1523857494 source:c:\users\alicia espigares\uni\shit\2º cuatrimestre\sistemas informáticos industriales\prácticas\práctica 2.1\p2.3_ficheros\cimagen.cpp
+	<iostream>
+	"CImagen.h"
+	<stdio.h>
+	<string.h>
+
+1523867450 c:\users\alicia espigares\uni\shit\2º cuatrimestre\sistemas informáticos industriales\prácticas\práctica 2.1\p2.3_ficheros\cimagen.h
+
+1523866861 source:c:\users\alicia espigares\uni\shit\2º cuatrimestre\sistemas informáticos industriales\prácticas\práctica 2.1\p2.3_ficheros\cimagen_rle_entrega.cpp
+	<iostream>
+	"CImagen_rle.h"
+	<stdio.h>
+	<string.h>
+
+1523867453 c:\users\alicia espigares\uni\shit\2º cuatrimestre\sistemas informáticos industriales\prácticas\práctica 2.1\p2.3_ficheros\cimagen_rle.h
+	"Cimagen.h"
+
+1525894967 source:c:\users\alicia espigares\uni\shit\2º cuatrimestre\sistemas informáticos industriales\prácticas\práctica 2.1\p2.3_ficheros\p23main.cpp
+	<cstdlib>
+	<iostream>
+	"CImagen.h"
+	"CImagen_rle.h"
+	<stdio.h>
+	<locale.h>
+	<string.h>
+

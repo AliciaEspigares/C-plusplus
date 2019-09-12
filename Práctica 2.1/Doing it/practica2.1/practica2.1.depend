@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1525894117 source:c:\users\alicia espigares\uni\shit\2º cuatrimestre\sistemas informáticos industriales\prácticas\práctica 2.1\p2.3_ficheros\cimagen.cpp
+	<iostream>
+	"CImagen.h"
+	<stdio.h>
+	<string.h>
+
+1523867450 c:\users\alicia espigares\uni\shit\2º cuatrimestre\sistemas informáticos industriales\prácticas\práctica 2.1\p2.3_ficheros\cimagen.h
+
+1525893808 source:c:\users\alicia espigares\uni\shit\2º cuatrimestre\sistemas informáticos industriales\prácticas\práctica 2.1\p2.3_ficheros\cimagen_rle_entrega.cpp
+	<iostream>
+	"CImagen_rle.h"
+	<stdio.h>
+	<string.h>
+
+1523867453 c:\users\alicia espigares\uni\shit\2º cuatrimestre\sistemas informáticos industriales\prácticas\práctica 2.1\p2.3_ficheros\cimagen_rle.h
+	"Cimagen.h"
+
+1525893809 source:c:\users\alicia espigares\uni\shit\2º cuatrimestre\sistemas informáticos industriales\prácticas\práctica 2.1\p2.3_ficheros\p23main.cpp
+	<cstdlib>
+	<iostream>
+	"CImagen.h"
+	"CImagen_rle.h"
+	<stdio.h>
+	<locale.h>
+	<string.h>
+
+1525894820 source:c:\users\alicia espigares\uni\shit\2º cuatrimestre\sistemas informáticos industriales\prácticas\práctica 2.1\doing it\practica2.1\p2.3_ficheros\cimagen.cpp
+	<iostream>
+	"CImagen.h"
+	<stdio.h>
+	<string.h>
+
+1523867450 c:\users\alicia espigares\uni\shit\2º cuatrimestre\sistemas informáticos industriales\prácticas\práctica 2.1\doing it\practica2.1\p2.3_ficheros\cimagen.h
+
+1525905697 source:c:\users\alicia espigares\uni\shit\2º cuatrimestre\sistemas informáticos industriales\prácticas\práctica 2.1\doing it\practica2.1\p2.3_ficheros\cimagen_rle_entrega.cpp
+	<iostream>
+	"CImagen_rle.h"
+	<stdio.h>
+	<string.h>
+
+1523867453 c:\users\alicia espigares\uni\shit\2º cuatrimestre\sistemas informáticos industriales\prácticas\práctica 2.1\doing it\practica2.1\p2.3_ficheros\cimagen_rle.h
+	"Cimagen.h"
+
+1525895846 source:c:\users\alicia espigares\uni\shit\2º cuatrimestre\sistemas informáticos industriales\prácticas\práctica 2.1\doing it\practica2.1\p2.3_ficheros\p23main.cpp
+	<cstdlib>
+	<iostream>
+	"CImagen.h"
+	"CImagen_rle.h"
+	<stdio.h>
+	<locale.h>
+	<string.h>
+
+1514144174 source:c:\users\alicia espigares\uni\shit\2º cuatrimestre\sistemas informáticos industriales\prácticas\práctica 2.1\doing it\practica2.1\main.cpp
+	<iostream>
+
