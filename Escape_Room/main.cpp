@@ -120,7 +120,7 @@ cout<<"3.Videos"<<endl;
 cout<<"4.Musica"<<endl;
 cout<<"5.Descargas"<<endl;
 cout<<"6.Volver al menu principal"<<endl;
-cout<<"\nIntroduce el numero del menu elegido (¡Cuidado! No introducir ninguna letra): "<<flush;
+cout<<"\nIntroduce el numero del menu elegido (ï¿½Cuidado! No introducir ninguna letra): "<<flush;
 int num;
 cin >> num;
 switch (num){
@@ -206,7 +206,7 @@ cout<<" 1"<<endl;
 Sleep(1000);
 cout<<"Ubicacion Secreta iniciada\n\n"<<endl;
 Sleep(1000);
-cout<<"Pista para encontrar la siguiente ubicacion: Feliz Cumpleaños"<<endl;
+cout<<"Pista para encontrar la siguiente ubicacion: Feliz Cumpleaï¿½os"<<endl;
 system("pause");
 cout<<"Introduce el numero para continuar. \nPISTA: Introduce el numero sin espacios y en orden ascendente."<<endl;
 while(1){
@@ -220,7 +220,7 @@ while(1){
 Sleep(1000);
 cout<<"Pista para la siguiente localizacion:"<<endl;
 Sleep(1000);
-cout<<"Como pincha cuando estás en alto. Mejor no pises lo que te da de comer."<<endl;
+cout<<"Como pincha cuando estï¿½s en alto. Mejor no pises lo que te da de comer."<<endl;
 system("pause");
 cout<<"\nYa lo ha encontrado?"<<endl;
 Sleep(1000);
@@ -306,7 +306,7 @@ cout<<"1.Cambiar nombre de usuario"<<endl;
 cout<<"2.Cambiar contrasena"<<endl;
 cout<<"3.Formatear ordenador"<<endl;
 cout<<"4.Volver a menu administrador"<<endl;
-cout<<"\nIntroduce el numero del menu elegido (¡Cuidado! No introducir ninguna letra): "<<flush;
+cout<<"\nIntroduce el numero del menu elegido (ï¿½Cuidado! No introducir ninguna letra): "<<flush;
 int num;
 std::string nombre, contra;
 cin >> num;
@@ -351,7 +351,7 @@ default:
 }
 }
 void choose(){
-cout<<"\nIntroduce el numero del menu elegido (¡Cuidado! No introducir ninguna letra): "<<flush;
+cout<<"\nIntroduce el numero del menu elegido (ï¿½Cuidado! No introducir ninguna letra): "<<flush;
 int num;
 cin >> num;
 switch (num){
@@ -390,7 +390,7 @@ default:
 
 }
 void chooseadmin(){
-cout<<"\nIntroduce el numero del menu elegido (¡Cuidado! No introducir ninguna letra): "<<flush;
+cout<<"\nIntroduce el numero del menu elegido (ï¿½Cuidado! No introducir ninguna letra): "<<flush;
 int num;
 cin >> num;
 switch (num){
@@ -434,8 +434,8 @@ default:
 int main()
 {
 
-//contrasena_ini();
-//preguntas_reconocimiento();
+contrasena_ini();
+preguntas_reconocimiento();
 menuprincipal();
 
 
