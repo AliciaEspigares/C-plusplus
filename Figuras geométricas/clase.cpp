@@ -42,14 +42,14 @@ void clase::introducir_datos(int tipo_Dato){ //Recibe tipo, pregunta por los dat
                 valores=(float*)malloc(2*sizeof(float));
                 printf("Por favor, introduzca la longitud de la base del triangulo\n");
                 scanf("%f",&valores[0]);
-                printf("A continuación introduzca la altura del triangulo\n");
+                printf("A continuacion introduzca la altura del triangulo\n");
                 scanf("%f",&valores[1]);
                 break;
             case 3:
                 valores=(float*)malloc(2*sizeof(float));
                 printf("Por favor, introduzca la longitud de la base del rectangulo\n");
                 scanf("%f",&valores[0]);
-                printf("A continuación introduzca la altura del rectangulo\n");
+                printf("A continuacion introduzca la altura del rectangulo\n");
                 scanf("%f",&valores[1]);
                 break;
             default:
